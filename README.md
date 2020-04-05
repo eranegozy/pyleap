@@ -43,5 +43,5 @@ python test.py
 
 ## Building libs
 
-Currently, prebuild binaries are available in the pyleap directory for osx, windows, and linux. If needed, I can supply the src code and build steps for these libs if needed.
+Currently, prebuilt binaries are available in the pyleap directory for osx, windows, and linux. I can supply the src code and build steps for these libs if needed.
 
