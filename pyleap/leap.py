@@ -1,4 +1,9 @@
-# leap.py
+# ------------------------------
+#
+# Copyright (c) 2020, Eran Egozy. All rights reserved.
+# Released under GNU GPL version 3
+# 
+# -------------------------------
 
 from ctypes import *
 from ctypes.util import find_library

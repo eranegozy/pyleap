@@ -1,3 +1,10 @@
+# ------------------------------
+#
+# Copyright (c) 2020, Eran Egozy. All rights reserved.
+# Released under GNU GPL version 3
+# 
+# -------------------------------
+
 # simple test app for pyleap.
 # if hand is detected, show graphical representation of hand x-position using ASCII art
 

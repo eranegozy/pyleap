@@ -4,6 +4,7 @@ python bindings to LeapMotion API using ctypes
 ## Requirements
 
 - numpy
+- Leap motion drivers, available from [Leapmotion](https://developer.leapmotion.com/setup/desktop).
 
 ## Example
 
@@ -41,7 +42,6 @@ python test.py
         | **palm_pos** - A numpy array ``[x, y, z]`` of the palm position in millimeters.
         | **fingers** - A 5-element array of finger positions as numpy arrays ``[x, y, z]`` in millimeters.
 
-## Building libs
+## Building LeapC binaries from source
 
-Currently, prebuilt binaries are available in the pyleap directory for osx, windows, and linux. I can supply the src code and build steps for these libs if needed.
-
+See [README](build/README.md) in `build` directory.
